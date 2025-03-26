@@ -47,11 +47,3 @@ The DEX supports two types of [Curve](https://curve.fi/) pools denoted as:
 
 - **[Volatile](https://resources.curve.fi/base-features/understanding-crypto-pools/)**
 - **[Stable](https://miguelmota.com/blog/understanding-stableswap-curve/)**
-
-## Contact Us
-
-- Twitter: [@IPXSui](https://twitter.com/IPXSui)
-- Discord: https://discord.com/invite/interestprotocol
-- Telegram: https://t.me/interestprotocol
-- Email: [contact@interestprotocol.com](mailto:contact@interestprotocol.com)
-- Medium: [@interestprotocol](https://medium.com/@interestprotocol)
